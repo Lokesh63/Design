@@ -1,0 +1,47 @@
+.new i{
+    font-size: xxx-large;
+    font-weight: 500;
+    color: white;
+}
+.header{
+    background-color: #5E3792;
+    padding-top: 40px;
+}
+h2{
+    color: white;
+}
+.head{
+    color: white;
+}
+.section{
+    padding-top: 20px;
+}
+table{
+   
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    width: 100%;
+
+  }
+  table,tr,td{
+      padding:20px ;
+  }
+  table{
+      margin-top: 10px;
+  }
+  table th{
+      padding-left: 3px;
+  }
+  table td{
+      padding-right: 5px;
+  }
+  .end{
+    background-color:#E9EFFF;
+    padding:30px;
+  }
+  .fin{
+      background-color: #5E3792;
+      padding: 30px;
+      
+  }
